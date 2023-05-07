@@ -1,0 +1,30 @@
+.services {
+  padding-top: 45px;
+  padding-bottom: 90px;
+}
+.services__row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  column-gap: 30px;
+  row-gap: 60px;
+}
+.service__card {
+  max-width: 370px;
+  min-width: 315px;
+  flex:1 1 0;
+}
+.service__card__img {
+  margin-bottom: 30px;
+}
+.service__card__title {
+  margin-bottom: 10px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  text-transform: uppercase;
+}
+.service__card__text {
+  line-height: 200%;
+}

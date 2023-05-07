@@ -1,0 +1,22 @@
+.header__contant {
+  display: flex;
+  justify-content: space-between;
+  column-gap: 30px;
+}
+.header__contant__text {
+  margin-top: 144px;
+  max-width: 500px;
+
+  p {
+    font-weight: 400;
+    line-height: 200%;
+  }
+}
+.header__contant__title {
+  padding-bottom: 20px;
+
+  font-weight: 600;
+  font-size: 44px;
+  line-height: 66px;
+}
+

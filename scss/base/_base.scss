@@ -1,0 +1,30 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: #000000;
+  font-size: 14px;
+}
+
+.none {
+  display: none;
+}
+
+.visually-hidden {
+  opacity: 0;
+  visibility: hidden;
+  width: 0px;
+  height: 0px;
+  display: block;
+  margin-left: -100000000px;
+  background: transparent;
+  font-size: 0;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1230px;
+  padding: 0 30px;
+}

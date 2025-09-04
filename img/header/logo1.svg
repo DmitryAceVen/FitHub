@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 115 35" width="115" height="35">
+	<title>logo1</title>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #fda300 } 
+		.t1 { font-size: 30px;fill: #000000;font-weight: 400;font-family: "DoppioOne-Regular", "Doppio One" } 
+	</style>
+	<path fill-rule="evenodd" class="s0" d="m111 35c-2.21 0-4-1.79-4-4 0-2.21 1.79-4 4-4 2.21 0 4 1.79 4 4 0 2.21-1.79 4-4 4z"/>
+	<text id="FitHub" style="transform: matrix(1,0,0,1,9,28)" >
+		<tspan x="0" y="0" class="t1">FitHub
+</tspan>
+	</text>
+</svg>
